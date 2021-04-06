@@ -1,6 +1,6 @@
 ## MERN URL Shortener
 ### Summary 
-This App is URL Shortener.
+This App is URL Shortener v0.0.1
 
 The technologies stack consists of:
 * MongoDB
